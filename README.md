@@ -1,1 +1,3 @@
 # multi_sdk_demo
+
+通过hilt实现兼容不同sdk进行多渠道打包
